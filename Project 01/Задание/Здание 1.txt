@@ -1,9 +1,3 @@
-# BigData_Summer_2017
-Small summer's course 2017
-
-
-## 2017-08-23 Добавлено первое задание
-
 Входные данные:
 market-price.csv
 
