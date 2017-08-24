@@ -1,0 +1,52 @@
+https://stackoverflow.com/questions/24371259/how-to-make-saveastextfile-not-split-output-into-multiple-file
+how to make saveAsTextFile NOT split output into multiple file?
+
+
+https://stackoverflow.com/questions/39173039/writing-to-a-file-in-apache-spark
+Writing to a file in Apache Spark
+
+https://stackoverflow.com/questions/35928490/write-rdd-in-txt-file
+Write RDD in txt file
+
+https://blueplastic.gitbooks.io/how-to-light-your-spark-on-a-stick/content/launch_the_scala_shell/reading_&_writing_to_text_files.html
+Reading & Writing to text files
+
+https://stackoverflow.com/questions/23838614/how-to-sort-an-rdd-in-scala-spark
+How to sort an RDD in Scala Spark?
+
+https://stackoverflow.com/questions/32070886/reducing-a-list-by-max-and-min-of-values
+Reducing a list by max and min of values
+
+https://stackoverflow.com/questions/11106886/scala-doubles-and-precision
+Scala Doubles, and Precision
+
+https://stackoverflow.com/questions/34888419/round-down-double-in-spark
+Round Down Double in Spark
+
+https://stackoverflow.com/questions/5683728/convert-java-util-date-to-string
+Convert java.util.Date to String
+
+https://stackoverflow.com/questions/40288153/apache-spark-fixing-the-timestamp-format
+Apache Spark: Fixing the timestamp format
+
+https://stackoverflow.com/questions/29844144/better-way-to-convert-a-string-field-into-timestamp-in-spark
+Better way to convert a string field into timestamp in Spark
+
+https://stackoverflow.com/questions/30977961/convert-rddmapstring-double-to-rddstring-double
+Convert RDD[Map[String,Double]] to RDD[(String,Double)]
+
+https://stackoverflow.com/questions/31925498/change-iterablestring-double-of-an-rdd-to-array-or-list
+Change Iterable[(String, Double)] of an RDD to Array or List
+
+https://stackoverflow.com/questions/31449175/how-to-convert-a-rddstring-to-a-rddvector-in-spark
+How to convert a RDD<String> to a RDD<Vector> in Spark?
+
+https://stackoverflow.com/questions/29753496/how-to-split-rows-of-a-spark-rdd-by-deliminator
+How to split rows of a Spark RDD by Deliminator
+
+https://stackoverflow.com/questions/29820501/splitting-strings-in-apache-spark-using-scala
+Splitting strings in Apache Spark using Scala
+
+https://stackoverflow.com/questions/27299923/how-to-load-local-file-in-sc-textfile-instead-of-hdfs
+How to load local file in sc.textFile, instead of HDFS
+
